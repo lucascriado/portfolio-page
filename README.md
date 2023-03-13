@@ -1,2 +1,2 @@
 # Portfolio Page.
-💻 This repository aims to bring an example portfolio made within Alura courses.
+💻 This repository was made for an example repository page, being a project studied in the Alura course.
